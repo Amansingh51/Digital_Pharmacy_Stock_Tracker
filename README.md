@@ -1,6 +1,6 @@
 # 💊 Digital Pharmacy Stock Tracker  
 ### C++ Mini Project by Aman Singh (Roll No: 23BCA10006)  
-**University Institute of Tourism and Hospitality Management, Chandigarh University**
+**University Institute of Computing, Chandigarh University**
 
 ---
 
